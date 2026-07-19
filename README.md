@@ -2,6 +2,12 @@
 
 A web application for visualizing the Jhoon Rhee Institute (JRI) martial arts lineage as an interactive dependency graph. It shows instructor–student relationships across generations of martial artists, allowing users to explore, search, and manage the lineage tree.
 
+## Live Demo
+
+The application is deployed on GitHub Pages:
+
+**https://kickertw.github.io/jri-lineage-tree/**
+
 ## Features
 
 - **Interactive lineage graph** — View instructor-student relationships as a directed graph.
