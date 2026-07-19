@@ -94,3 +94,9 @@ Lineage data is stored as JSON with a `nodes` array and an `edges` array:
 Each node has a unique `id`, `name`, `rank`, `type` (e.g., `grandmaster`, `master`, `black`), and optional `notes`. Edges represent an instructor-to-student relationship, where `source` is the instructor and `target` is the student.
 
 You can import your own JSON file through the application, or edit the default data in `src/lineage-data.json`.
+
+## License
+
+This project is licensed under a custom non-commercial license. See [LICENSE](./LICENSE) for details.
+
+Personal, educational, research, and other non-commercial uses are permitted with attribution. Commercial use requires prior written permission.
